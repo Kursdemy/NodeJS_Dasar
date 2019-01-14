@@ -1,0 +1,14 @@
+{
+  "name": "nodejs_dasar",
+  "version": "1.0.0",
+  "description": "Belajar NodeJS Dasar",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Budi Saputra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
